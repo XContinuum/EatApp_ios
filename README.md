@@ -10,7 +10,7 @@
 ## Screenshots
 
   <p align="center">
-  <img src="EatApp/Images/screenshots/search.PNG" width="30%"/> <img src="Sound/Images/screenshots/login.PNG" width="30%"/> <img src="EatApp/Images/screenshots/map.PNG" width="30%"/>
+  <img src="EatApp/Images/screenshots/search.PNG" width="30%"/> <img src="EatApp/Images/screenshots/login.PNG" width="30%"/> <img src="EatApp/Images/screenshots/map.PNG" width="30%"/>
   </p>
 
 ## Languages
